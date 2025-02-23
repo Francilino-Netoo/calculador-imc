@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculador-imc/static/css/main.0b5f783c.css",
+    "main.js": "/calculador-imc/static/js/main.c3522792.js",
+    "static/js/453.9bafcc0c.chunk.js": "/calculador-imc/static/js/453.9bafcc0c.chunk.js",
+    "static/media/powered.png": "/calculador-imc/static/media/powered.508a6e931af3a3be93de.png",
+    "index.html": "/calculador-imc/index.html",
+    "main.0b5f783c.css.map": "/calculador-imc/static/css/main.0b5f783c.css.map",
+    "main.c3522792.js.map": "/calculador-imc/static/js/main.c3522792.js.map",
+    "453.9bafcc0c.chunk.js.map": "/calculador-imc/static/js/453.9bafcc0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5f783c.css",
+    "static/js/main.c3522792.js"
+  ]
+}
