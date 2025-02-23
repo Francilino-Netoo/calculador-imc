@@ -28,4 +28,4 @@ npm install
 3️⃣ Inicie o projeto
 ```bash
 npm start 
-```# calculador-imc
+```
